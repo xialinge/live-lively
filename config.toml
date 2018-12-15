@@ -1,4 +1,4 @@
-# Configuration of Academic
+i# Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
@@ -379,7 +379,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "lxia2@wisc.edu"
-  address = "4181 Grainger Hall, 麦迪逊, 威斯康星 53705"
+  address = "4181 Grainger Hall, Madison, Wisconsin 53705"
   office_hours = "--"
   phone = "--"
   skype = "--"
